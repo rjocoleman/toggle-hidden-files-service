@@ -9,8 +9,8 @@ When installed correctly you'll see a "Toggle Hidden Files" item in the Services
 
 ## Usage
 
-From the Services Menu select "Toggle Hidden Files". This will toggle the current Finder preference and restart Finder. Finder should restart at your previous Windows.
+From the Services Menu select "Toggle Hidden Files". This will toggle the current Finder preference and restart Finder. Finder should restart with your previous session/windows intact.
 
 Suggested Keyboard shortcut: `⇧ ⌘ .`, this can be set in System Preferences > Keyboard > Keyboard Shortcuts > Services > General. This remians compatible with the modal dialogue keyboard shortcut, and extends it to Finder wide. 
 
-Further information on keyboard shortcuts at [Apple's KB](http://support.apple.com/kb/PH3957)
+Further information on keyboard shortcuts at [Apple's KB](http://support.apple.com/kb/PH3957) or 
