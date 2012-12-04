@@ -1,6 +1,7 @@
 # Toggle Hidden Files OS X Service
 
-This is a [Service](http://en.wikipedia.org/wiki/Services_menu) using hidden file display in in OS X's Finder.
+This is a [Service](http://en.wikipedia.org/wiki/Services_menu) to toggle hidden file display in in OS X's Finder.
+i.e. if you have hidden files turned on this'll turn the off and vice versa. 
 
 ## Installation
 
